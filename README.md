@@ -15,3 +15,5 @@ This repo contains projects for learning back end development concepts with __Ja
 
 ## Software engineer
 
+Solomon Kassa
+:octocat: [GitHub](https://github.com/solomonkassa/)

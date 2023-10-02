@@ -52,3 +52,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 13. Iterating through report objects
 * [ ] 14. Iterate through object
 
+# Software engineer
+  Solomon Kassa
+  :octocat: [GitHub](https://github.com/solomonkassa/)

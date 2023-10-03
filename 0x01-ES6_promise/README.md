@@ -39,5 +39,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 10. Await / Async
 
 ## Software engineer
-Seid Hamid
-:octocat: [GitHub](https://github.com/radu2022/)
+Solomon Kassa
+:octocat: [GitHub](https://github.com/solomonkassa/)

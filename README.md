@@ -14,4 +14,6 @@ This repo contains projects for learning back end development concepts with __Ja
 * [x] 1227 0x03. ES6 data manipulation
 
 ## Software engineer
-[Seid Hamid](https://radu2022.github.io/)
+
+Solomon Kassa
+:octocat: [GitHub](https://github.com/solomonkassa/)

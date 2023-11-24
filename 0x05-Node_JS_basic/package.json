@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple project for learning the basics of Node.js for server-side apps.",
   "main": "index.js",
-  "author": "Bezaleel Olakunori <bezaleeloci@gmail.com>",
+  "author": "Solomon Kassa <solomonmulu57@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/B3zaleel/alx-backend-javascript"
+    "url": "https://github.com/solomonkassa/alx-backend-javascript"
   },
   "bugs": {
-    "url": "https://github.com/B3zaleel/alx-backend-javascript/tree/main/0x05-Node_JS_basic"
+    "url": "https://github.com/solomonkassa/alx-backend-javascript/tree/main/0x05-Node_JS_basic"
   },
-  "homepage": "https://github.com/B3zaleel/alx-backend-javascript/blob/main/0x05-Node_JS_basic/README.md",
+  "homepage": "https://github.com/solomonkassa/alx-backend-javascript/blob/main/0x05-Node_JS_basic/README.md",
   "engines": {
     "node": "16.x",
     "npm": "8.x",
